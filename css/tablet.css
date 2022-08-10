@@ -1,0 +1,21 @@
+@media all and (min-width:801px) and (max-width:1065px);{
+    #wrap .box_inner{width: 100%;}
+    header .header_area h1{padding-left: 20px;}
+    .header_cont{float: right; width: 60%; padding-right: 20px;}
+    .header_cont .gnb li a{padding: 26px 25px;}
+    .gnb_depth .submenu_list{width: 100%; padding-left: 52%;}
+    .gnb_depth .submenu_list a{padding: 20px;}
+    #container{padding-bottom: 20px;}
+    .about_area .place_list{box-sizing: border-box; padding: 0 20px;}
+    .about_area .appbbs_box{box-sizing: border-box; padding: 0 20px;}
+    .about_area .app_line a{font-size: 21px;}
+
+    .about_area .about_box img{width: 100%;}
+
+    footer .footer_area{box-sizing: border-box; padding-left: 20px;}
+    footer .footer_area .snslink li{margin-left: 15px;}
+
+    .quick_area .quick_list{display: none;}
+    .to_top{position: fixed; right: 20px; bottom: 112px; text-align: center; background: none; z-index: 100;}
+    .to_top a{display: block; width: 45px; height: 45px; border-left: none; border-bottom: none; background: url(../img/ico_totop_mo.png) no-repeat center; background-size: 45px;}
+}
